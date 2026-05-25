@@ -49,35 +49,28 @@ The Flutter client manages:
 
 ### Authentication
 
-![Authentication](screenshots/auth.jpg)
+<img src="screenshots/auth.jpg" width="250"/>
 
 ### Home Screen
 
-![Home Screen](screenshots/home.jpg)
+<img src="screenshots/home.jpg" width="250"/>
 
 ### Active Room
 
-![Active Room](screenshots/home1.jpg)
+<img src="screenshots/home1.jpg" width="250"/>
 
 ### Lobby
 
-![Lobby](screenshots/lobby1.jpg)
-
-### Alternative Lobby Theme
-
-![Alternative Lobby](screenshots/lobby.jpg)
+<img src="screenshots/lobby1.jpg" width="250"/>
 
 ### Gameplay
 
-![Gameplay](screenshots/game1.jpg)
-
-### Gameplay (Red Team View)
-
-![Gameplay Red](screenshots/game.jpg)
+<img src="screenshots/game1.jpg" width="250"/>
 
 ### Victory Screen
 
-![Victory Screen](screenshots/victory.jpg)
+<img src="screenshots/victory.jpg" width="250"/>
+
 
 
 ## What I Learned
