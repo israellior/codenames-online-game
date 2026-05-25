@@ -1,16 +1,60 @@
-# codename_app
+# Codenames Online Game
 
-A new Flutter project.
+A real-time multiplayer mobile game inspired by Codenames, built with Flutter and Firebase.
 
-## Getting Started
+[Download Android APK](https://drive.google.com/file/d/1Zke9A2hhzZjAi2Qw7DCYBhWAucKdV6KK/view?usp=drive_web)
 
-This project is a starting point for a Flutter application.
+The project focuses on online room-based gameplay, live synchronization, and creating a smooth multiplayer experience across devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Main Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Real-time multiplayer gameplay
+* Room creation and lobby management
+* QR-based game joining
+* Team and role assignment
+* Live game-state synchronization
+* Player reconnect handling
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+
+* Flutter
+* Dart
+* Firebase Authentication
+* Cloud Firestore
+
+## Main Project Folders
+
+```text
+lib/            Main Flutter application code
+lib/screens/    App screens and UI flows
+lib/services/   Game, room, authentication, and user services
+lib/widgets/    Reusable UI components
+lib/game/       Game-state logic
+lib/theme/      App theme and styling
+assets/         Images and app assets
+```
+
+## Architecture Overview
+
+The application uses Firebase Firestore to synchronize multiplayer game state between connected players in real time.
+
+The Flutter client manages:
+
+* User authentication
+* Room and lobby flows
+* Game logic and UI
+* Real-time updates between players
+
+## Screenshots
+
+Screenshots will be added soon.
+
+## What I Learned
+
+Through this project, I improved my understanding of:
+
+* Real-time application design
+* State synchronization
+* Mobile development with Flutter
+* Firebase integration
+* Building and maintaining a complete software product
