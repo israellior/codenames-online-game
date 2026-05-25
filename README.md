@@ -47,7 +47,38 @@ The Flutter client manages:
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Authentication
+
+![Authentication](screenshots/auth.jpg)
+
+### Home Screen
+
+![Home Screen](screenshots/home.jpg)
+
+### Active Room
+
+![Active Room](screenshots/home1.jpg)
+
+### Lobby
+
+![Lobby](screenshots/lobby1.jpg)
+
+### Alternative Lobby Theme
+
+![Alternative Lobby](screenshots/lobby.jpg)
+
+### Gameplay
+
+![Gameplay](screenshots/game1.jpg)
+
+### Gameplay (Red Team View)
+
+![Gameplay Red](screenshots/game.jpg)
+
+### Victory Screen
+
+![Victory Screen](screenshots/victory.jpg)
+
 
 ## What I Learned
 
